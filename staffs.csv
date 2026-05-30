@@ -1,0 +1,11 @@
+staff_id,first_name,last_name,email,phone,active,store_id,manager_id,_ingestion_ts,_source
+9,Layla,Terrell,layla.terrell@bikes.shop,972 530-5556,1,3,7.0,2026-04-25 06:51:28.681475,BikeStores_LoadData.sql
+10,Bernardine,Houston,bernardine.houston@bikes.shop,972 530-5557,1,3,7.0,2026-04-25 06:51:28.681475,BikeStores_LoadData.sql
+4,Virgie,Wiggins,virgie.wiggins@bikes.shop,831 555-5557,1,1,2.0,2026-04-25 06:51:28.681475,BikeStores_LoadData.sql
+5,Jannette,David,jannette.david@bikes.shop,516 379-4444,1,2,1.0,2026-04-25 06:51:28.681475,BikeStores_LoadData.sql
+2,Mireya,Copeland,mireya.copeland@bikes.shop,831 555-5555,1,1,1.0,2026-04-25 06:51:28.681475,BikeStores_LoadData.sql
+6,Marcelene,Boyer,marcelene.boyer@bikes.shop,516 379-4445,1,2,5.0,2026-04-25 06:51:28.681475,BikeStores_LoadData.sql
+3,Genna,Serrano,genna.serrano@bikes.shop,831 555-5556,1,1,2.0,2026-04-25 06:51:28.681475,BikeStores_LoadData.sql
+7,Venita,Daniel,venita.daniel@bikes.shop,516 379-4446,1,2,5.0,2026-04-25 06:51:28.681475,BikeStores_LoadData.sql
+1,Fabiola,Jackson,fabiola.jackson@bikes.shop,831 555-5554,1,1,,2026-04-25 06:51:28.681475,BikeStores_LoadData.sql
+8,Kali,Vargas,kali.vargas@bikes.shop,972 530-5555,1,3,1.0,2026-04-25 06:51:28.681475,BikeStores_LoadData.sql

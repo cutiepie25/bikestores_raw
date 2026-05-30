@@ -1,0 +1,8 @@
+category_id,category_name,_ingestion_ts,_source
+4,Cyclocross Bicycles,2026-04-25 06:51:13.287356,BikeStores_LoadData.sql
+1,Children Bicycles,2026-04-25 06:51:13.287356,BikeStores_LoadData.sql
+3,Cruisers Bicycles,2026-04-25 06:51:13.287356,BikeStores_LoadData.sql
+2,Comfort Bicycles,2026-04-25 06:51:13.287356,BikeStores_LoadData.sql
+5,Electric Bikes,2026-04-25 06:51:13.287356,BikeStores_LoadData.sql
+6,Mountain Bikes,2026-04-25 06:51:13.287356,BikeStores_LoadData.sql
+7,Road Bikes,2026-04-25 06:51:13.287356,BikeStores_LoadData.sql

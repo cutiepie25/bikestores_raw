@@ -1,0 +1,10 @@
+brand_id,brand_name,_ingestion_ts,_source
+8,Surly,2026-04-25 06:51:00.174882,BikeStores_LoadData.sql
+9,Trek,2026-04-25 06:51:00.174882,BikeStores_LoadData.sql
+7,Sun Bicycles,2026-04-25 06:51:00.174882,BikeStores_LoadData.sql
+4,Pure Cycles,2026-04-25 06:51:00.174882,BikeStores_LoadData.sql
+1,Electra,2026-04-25 06:51:00.174882,BikeStores_LoadData.sql
+5,Ritchey,2026-04-25 06:51:00.174882,BikeStores_LoadData.sql
+6,Strider,2026-04-25 06:51:00.174882,BikeStores_LoadData.sql
+3,Heller,2026-04-25 06:51:00.174882,BikeStores_LoadData.sql
+2,Haro,2026-04-25 06:51:00.174882,BikeStores_LoadData.sql
